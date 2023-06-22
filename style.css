@@ -1,0 +1,41 @@
+.cityInput1 {
+  padding-top: 20px;
+  margin-left: 20px;
+  font-size: 60px;
+  font-weight: bold;
+  color: black;
+}
+.dayDate {
+  margin-left: 20px;
+}
+.temperature {
+  position: absolute;
+  color: white;
+  font-size: 130px;
+  right: 20px;
+  top: 50px;
+}
+.details {
+  padding: 10px 50px 80px 520px;
+
+  color: white;
+  font-style: italic;
+}
+.cardWeather {
+  position: absolute;
+  max-width: 50%;
+}
+.row.row-cols-5 {
+  color: white;
+  font-weight: bold;
+}
+.row.row-cols-10 {
+  font-weight: bold;
+  color: white;
+}
+.special-button-current {
+  position: absolute;
+  top: 20%;
+  border: none;
+  float: right;
+}
