@@ -39,3 +39,7 @@
   border: none;
   float: right;
 }
+.link {
+  bottom: 0;
+  position: absolute;
+}
